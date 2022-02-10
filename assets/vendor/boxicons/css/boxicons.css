@@ -1568,7 +1568,8 @@
     content: "\ea5c";
   }
   .bxs-credit-card:before {
-    content: "\ea5d";
+      content: "\ea5d";
+
   }
   .bxs-credit-card-alt:before {
     content: "\ea5e";
